@@ -4,44 +4,44 @@ importScripts('/_nuxt/workbox.42554690.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/02e2eece996a4681dec8.js",
-    "revision": "f6e890d4a4be9d224555af0d27555b36"
-  },
-  {
-    "url": "/_nuxt/2b784d4cedda497c2feb.js",
-    "revision": "9a05dfa82098795ad3e121eb7381e3fd"
-  },
-  {
-    "url": "/_nuxt/534d456bf622bb06fae7.js",
-    "revision": "8083fae8000b0ff276fa3af8d46392cb"
+    "url": "/_nuxt/55479cdd7d23c1059761.js",
+    "revision": "6e06ddcbe691f256abc42ffff5b75cea"
   },
   {
     "url": "/_nuxt/72988ee42540e57ce6be.js",
     "revision": "904745b0cbf3d2a9f978b0d0be0cbaf8"
   },
   {
-    "url": "/_nuxt/944827800f277136c6a4.js",
-    "revision": "8783f46f9bb3917606846bab44155e00"
+    "url": "/_nuxt/763cae1f1539acdf60e8.js",
+    "revision": "ba928889899cfdc41b2f046564f0c127"
   },
   {
-    "url": "/_nuxt/9d8f4fb884e8a9d6a126.js",
-    "revision": "b2be52c8a7ef4708937cc88a5f51126a"
+    "url": "/_nuxt/9ebd1aaf4e4b1e00ff9e.js",
+    "revision": "a49be6b21841d74274169b86eaa0c231"
   },
   {
-    "url": "/_nuxt/9f57753ed610bf63f0dd.js",
-    "revision": "02424412691550b49a0bd6d3038cecaf"
+    "url": "/_nuxt/add71dcf418af60255a9.js",
+    "revision": "ac051f8c96c37ec587d060192f128671"
   },
   {
-    "url": "/_nuxt/dbcd7bd78020bf019e32.js",
-    "revision": "079502e03140c79a414907ac95c4fc67"
+    "url": "/_nuxt/b17dd0ad8fbb2c368bb2.js",
+    "revision": "6c38dcc0ab059a56053e20bb00942bdc"
   },
   {
-    "url": "/_nuxt/dee0643194e69cd0124d.js",
-    "revision": "39e713cb16ad96ca9078972959b7123c"
+    "url": "/_nuxt/bc018774f6a3c0ebf8bc.js",
+    "revision": "a7587fca463ae657969ec85de35f98cb"
   },
   {
-    "url": "/_nuxt/eda86aa6d05a21f7705d.js",
-    "revision": "4f82d9b0df568834373dcb44338e5776"
+    "url": "/_nuxt/ef3d15c6fc9d74957a31.js",
+    "revision": "ee5506c763a976ad420f3a433015baf4"
+  },
+  {
+    "url": "/_nuxt/f165f29af3318c5cd415.js",
+    "revision": "228922c3cbb41a481d84b563aeed59d4"
+  },
+  {
+    "url": "/_nuxt/f5eaf3da8b97455e557a.js",
+    "revision": "b241837cd92ccca3c84701b802a3eb71"
   }
 ], {
   "cacheId": "settanta",

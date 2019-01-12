@@ -6,7 +6,7 @@
  */
 
 /*!
- * Vue.js v2.5.19
+ * Vue.js v2.5.21
  * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
@@ -18,7 +18,7 @@
   */
 
 /**
- * vue-meta v1.5.6
+ * vue-meta v1.5.8
  * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
@@ -30,7 +30,7 @@
 	*/
 
 /*!
- * vue-no-ssr v1.1.0
+ * vue-no-ssr v1.1.1
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
